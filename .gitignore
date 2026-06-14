@@ -1,0 +1,16 @@
+Dataset/raw/ 
+Dataset/processed/ 
+Hasil_Eksperimen/model/ 
+GitHub/ 
+PPT_Presentasi/ 
+Bukti_Validitas/ 
+Video_Demo/ 
+Draft_Jurnal/ 
+Dokumentasi/ 
+*.pkl 
+__pycache__/ 
+.ipynb_checkpoints/ 
+venv/ 
+.env 
+~$*.docx 
+*.tmp 
