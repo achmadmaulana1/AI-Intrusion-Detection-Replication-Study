@@ -37,7 +37,9 @@ Random Forest Selected Features memperoleh accuracy 0,9939, precision 0,9768, re
 - ModuleNotFoundError: jalankan pip install -r requirements.txt.
 
 ## Link Google Drive
-[ISI LINK GOOGLE DRIVE DI SINI]
+
+(https://drive.google.com/drive/folders/1pE8rd0I8EoOm4Hh3mqFE3cyixRudAMHu?usp=sharing)
 
 ## Link GitHub
-[ISI LINK GITHUB DI SINI]
+
+[https://github.com/achmadmaulana1/AI-Intrusion-Detection-Replication-Study.git]
